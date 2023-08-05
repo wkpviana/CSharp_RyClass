@@ -1,2 +1,2 @@
-# c_sharp
- All C-Sharp's projects
+# C# RyClass
+ All C# published classes
